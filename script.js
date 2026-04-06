@@ -320,6 +320,23 @@
     }
   });
 
+  // --- Copy link ---
+  window.copyLink = function () {
+    var url = 'https://cinqans.fr/';
+    navigator.clipboard.writeText(url).then(function () {
+      var btn = document.querySelector('.share-copy');
+      if (btn) {
+        var label = btn.querySelector('.copy-label');
+        if (label) label.textContent = 'Copié !';
+        btn.classList.add('copied');
+        setTimeout(function () {
+          if (label) label.textContent = 'Copier le lien';
+          btn.classList.remove('copied');
+        }, 2000);
+      }
+    });
+  };
+
   // --- Start ---
   initFromHash();
 

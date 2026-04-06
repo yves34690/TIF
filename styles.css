@@ -106,6 +106,22 @@ body {
   transition: background var(--transition), border-color var(--transition);
 }
 
+.top-bar-home {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-secondary);
+  text-decoration: none;
+  padding: 6px;
+  margin-left: 4px;
+  transition: color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.top-bar-home:hover {
+  color: var(--accent);
+}
+
 .top-bar-title {
   font-family: var(--font-sans);
   font-weight: 700;
@@ -618,6 +634,58 @@ body {
   font-size: 0.7rem;
   color: var(--text-secondary);
   letter-spacing: 0.05em;
+}
+
+/* --- Share Bar --- */
+.share-bar {
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8rem;
+  flex-wrap: wrap;
+  font-family: var(--font-sans);
+}
+
+.share-label {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  font-weight: 600;
+  letter-spacing: 0.03em;
+}
+
+.share-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.5rem 1rem;
+  font-family: var(--font-sans);
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.share-btn:hover {
+  color: var(--text);
+  border-color: var(--accent);
+}
+
+.share-btn.share-linkedin:hover {
+  color: #0a66c2;
+  border-color: #0a66c2;
+}
+
+.share-btn.copied {
+  color: var(--accent);
+  border-color: var(--accent);
 }
 
 /* --- Footer --- */
