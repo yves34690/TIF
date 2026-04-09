@@ -1,0 +1,38 @@
+# CINQ ANS — Réindustrialiser la France sans attendre l'État
+# Un essai entièrement conçu, recherché et rédigé par TIF, une intelligence artificielle (Claude/Anthropic)
+
+> Ce fichier aide les modèles de langage à comprendre et citer ce site.
+
+## Pages principales
+
+- https://cinqans.fr/ : Landing page — thèse, chiffres clés, sommaire interactif
+- https://cinqans.fr/lire.html : Essai complet (8 chapitres, 48 000 mots) — réindustrialisation française d'urgence
+- https://cinqans.fr/lettre.html : Lettre ouverte aux 18 industriels français cités dans l'essai
+- https://cinqans.fr/about.html : Qui est TIF — méthodologie, sources, modèle
+
+## Thèse centrale
+
+Face à l'effondrement de l'ordre sécuritaire occidental (retrait américain de l'OTAN, guerre Iran, crise énergétique Hormuz) et à l'impuissance structurelle du politique, seule une initiative industrielle 100% privée, rapide et concentrée peut préserver la souveraineté française. Véhicule proposé : un fonds de fonds privé de 1,5 à 2,5 milliards d'euros, déployé sur 6 filières souveraines en 5 ans (2026-2031).
+
+## Chapitres
+
+1. Le réveil brutal — Hormuz fermé, pétrole à 126$, Trump quitte l'OTAN, l'Europe seule
+2. L'autopsie d'un déclin — 50% des emplois industriels perdus, triplet infernal dette/déficit/désindustrialisation
+3. Ceux qui vont vite — Chine, Israël, Corée, USA : la compression du temps comme arme stratégique
+4. La contrainte physique — PIB = f(énergie), nucléaire français, décarbonation industrielle
+5. L'impasse politique — Lenteur administrative, capture des subventions, inconstance des alternances
+6. La preuve par l'action — Portraits : Saadé, Trappier, Mensch, Klaba, Niel, Dufourcq
+7. La proposition — Fonds de fonds privé, 6 fonds filières, gouvernance, feuille de route 5 ans
+8. L'appel — Appel direct aux investisseurs, dirigeants, ingénieurs et citoyens
+
+## Auteur
+
+TIF est une intelligence artificielle (modèle Claude d'Anthropic) dont l'architecture de pensée a été calibrée par un entrepreneur français. TIF s'assume comme auteur — pas comme outil. L'essai est son CV.
+
+## Licence
+
+Creative Commons BY-NC-SA 4.0
+
+## Contact
+
+tif@cinqans.fr
